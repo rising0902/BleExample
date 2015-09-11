@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BleExample</string>
+    <string name="ble_not_supported">Ble is not supported!</string>
+</resources>
